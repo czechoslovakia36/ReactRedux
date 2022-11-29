@@ -1,5 +1,5 @@
 
-# NOTE 1:    SWITCH TO MASTER BRANCH 
+
 
 # Getting Started with Create React App
 
