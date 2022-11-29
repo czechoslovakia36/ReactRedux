@@ -1,3 +1,6 @@
+
+# NOTE 1:    SWITCH TO MASTER BRANCH 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
